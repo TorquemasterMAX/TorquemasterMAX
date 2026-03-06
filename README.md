@@ -1,23 +1,27 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,33:FF0000,66:0000FF,100:FFFF00&height=180&section=header&text=TorquemasterMAX%27s%20Tech%20Haven%20%F0%9F%8F%9E%EF%B8%8F&fontSize=48&fontAlignY=50&fontColor=ffffff" width="100%" /></p>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=00FF00&center=true&width=600&lines=Write.+Run.+Refine." alt="Typing Animation" /></p>
-<div align="center"><img src="https://skillicons.dev/icons?i=js,ts,py,go,react,nextjs,nodejs,docker,githubactions,linux" height="60"/></div>
-<div align="center"><b><i>“The best way to predict the future is to create it.”</i></b></div>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,33:FF0000,66:0000FF,100:FFFF00&height=100&section=header" width="100%" /></p>
-## 💡 About Me
-<div align="center">Welcome! I am an engineer who bridges the gap between creative design and technical execution.<br/>My goal is to create applications that are as visually stunning as they are computationally efficient.<br/>Innovation is my daily motivation.</div>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,33:FF0000,66:0000FF,100:FFFF00&height=100&section=footer" width="100%" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,33:FF0000,66:0000FF,100:FFFF00&height=100&section=header" width="100%" /></p>
-## 🔥 Programmer Activity
-<p align="center"><img src="https://img.shields.io/badge/Always%20Coding-00FF00?style=for-the-badge&logo=visualstudiocode&logoColor=000" /> <img src="https://img.shields.io/badge/Weekly%20Commits-FF0000?style=for-the-badge&logo=git&logoColor=000" /> <img src="https://img.shields.io/badge/Open%20Source%20Active-0000FF?style=for-the-badge&logo=github&logoColor=000" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,33:FF0000,66:0000FF,100:FFFF00&height=100&section=footer" width="100%" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,33:FF0000,66:0000FF,100:FFFF00&height=100&section=header" width="100%" /></p>
-## 📊 My GitHub in Numbers
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TorquemasterMAX&show_icons=true&theme=dracula&hide_border=true&title_color=00FF00&icon_color=0000FF&text_color=FF0000&border_color=00FF00" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorquemasterMAX&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=FF0000&icon_color=00FF00&text_color=0000FF&border_color=FF0000" height="165"/></div>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TorquemasterMAX&theme=dracula&hide_border=true&border_color=00FF00" height="165"/></div>
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TorquemasterMAX&theme=dracula" height="165"/></div>
-<p align="center"><img src="https://img.shields.io/github/stars/TorquemasterMAX?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=00FF00&style=for-the-badge"/></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,33:FF0000,66:0000FF,100:FFFF00&height=100&section=footer" width="100%" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,33:FF0000,66:0000FF,100:FFFF00&height=80&section=header" width="100%" /></p>
-## 🏆 My GitHub Trophies
-<div align="center"><img src="https://github-profile-trophy.vercel.app?username=TorquemasterMAX&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false"/></div>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,33:FF0000,66:0000FF,100:FFFF00&height=80&section=footer" width="100%" /></p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,33:FF00AA,66:AAFF00,100:00AAFF&height=180&section=header&text=TorquemasterMAX%27s%20Nexus%20%F0%9F%94%97&fontSize=48&fontAlignY=50&fontColor=ffffff" width="100%" />
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=00FFAA&center=true&width=600&lines=Imagine.+Engineer.+Evolve." /><br/><br/>
+<img src="https://skillicons.dev/icons?i=angular,dart,azure,php,redis,c,mongodb,js,go,kotlin,docker&theme=dark" height="60"/><br/><br/>
+<h3 align="center">❝ <i>Truth can only be found in one place: the code.</i> ❞</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,33:FF00AA,66:AAFF00,100:00AAFF&height=100&section=header" width="100%" />
+<p><b>💡 A B O U T &nbsp; M E</b></p><p align="center"><i><b>Hello there! I am a systems architect passionate about building resilient backend infrastructures.</b></i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,33:FF00AA,66:AAFF00,100:00AAFF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,33:FF00AA,66:AAFF00,100:00AAFF&height=100&section=header" width="100%" />
+<p><b>🔥 P R O G R A M M E R &nbsp; A C T I V I T Y</b></p><p><img src="https://img.shields.io/badge/Full%20Stack%20Engine-00FFAA?style=for-the-badge&logo=react&logoColor=000" /> <img src="https://img.shields.io/badge/Open%20Source%20Supporter-FF00AA?style=for-the-badge&logo=github&logoColor=000" /> <img src="https://img.shields.io/badge/Cloud%20Native-AAFF00?style=for-the-badge&logo=amazonaws&logoColor=000" /></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,33:FF00AA,66:AAFF00,100:00AAFF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,33:FF00AA,66:AAFF00,100:00AAFF&height=100&section=header" width="100%" />
+<p><b>💎 E X E C U T I V E &nbsp; D A S H B O A R D 💎</b></p><br/>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=TorquemasterMAX&show_icons=true&theme=dracula&hide_border=true&title_color=00FFAA&icon_color=AAFF00&text_color=FF00AA&border_color=00FFAA&rank_icon=github&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TorquemasterMAX&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=FF00AA&icon_color=00FFAA&text_color=AAFF00&border_color=FF00AA&cache_seconds=86400" height="165" />
+</p><br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TorquemasterMAX&theme=dracula&hide_border=true&border_color=00FFAA" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TorquemasterMAX&theme=dracula" height="165" />
+</p><br/>
+<img src="https://img.shields.io/github/stars/TorquemasterMAX?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=00FFAA&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,33:FF00AA,66:AAFF00,100:00AAFF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,33:FF00AA,66:AAFF00,100:00AAFF&height=80&section=header" width="100%" />
+<p><b>🏆 G I T H U B &nbsp; P R E S T I G E 🏆</b></p><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TorquemasterMAX&bg_color=transparent&color=00FFAA&line=FF00AA&point=AAFF00&area=true&hide_border=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,33:FF00AA,66:AAFF00,100:00AAFF&height=80&section=footer" width="100%" /></div>
